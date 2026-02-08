@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="40" viewBox="0 0 180 40" aria-labelledby="title">
+  <title id="title">IEEE Logo Placeholder</title>
+  <rect width="180" height="40" rx="6" fill="#003d7a" />
+  <text x="18" y="26" font-family="Segoe UI, Roboto, sans-serif" font-size="18" fill="#ffffff" font-weight="700">IEEE</text>
+  <text x="68" y="26" font-family="Segoe UI, Roboto, sans-serif" font-size="12" fill="#ffffff">Student Branch</text>
+</svg>

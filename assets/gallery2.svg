@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="gal2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ff6b35" />
+      <stop offset="1" stop-color="#ffa657" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#gal2)" />
+  <text x="200" y="120" font-family="Segoe UI, Roboto" font-size="48" fill="#ffffff" text-anchor="middle" font-weight="700">Events</text>
+  <text x="200" y="180" font-family="Segoe UI, Roboto" font-size="24" fill="#ffffff" text-anchor="middle" opacity="0.8">Networking & Learning</text>
+</svg>

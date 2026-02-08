@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0066cc" />
+      <stop offset="1" stop-color="#0052a3" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#g)" rx="20" />
+  <g transform="translate(40,60)" fill="#ffffff" opacity="0.95">
+    <rect x="0" y="0" width="220" height="260" rx="12" fill="#ffffff" opacity="0.06" />
+    <rect x="240" y="30" width="460" height="160" rx="12" fill="#ffffff" opacity="0.06" />
+    <circle cx="150" cy="150" r="40" fill="#ffd60a" opacity="0.12" />
+  </g>
+  <text x="60" y="50" fill="#fff" font-family="Segoe UI, Roboto" font-size="28">Innovation • Learning • Community</text>
+</svg>
